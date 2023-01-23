@@ -23,13 +23,18 @@
     }
 
     section#login > div#imagem {
-        float: left;
+        float: right;
         width: 50%;
         height: 100%;
     }
 
+    div#formulario h1 {
+        font-size: 2em;
+    }
+    
     section#login > div#formulario {
         float: left;
         width: 50%;
+        font-size: 1.2em;
     }
 }
